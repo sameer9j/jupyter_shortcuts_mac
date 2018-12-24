@@ -1,7 +1,7 @@
 # Jupyter Notebook Shortcuts for Mac Users
 
 ### Detailed list
-Accessing command palette: ⌘ + ⇧ + P
+Command palette: ⌘ + ⇧ + P
 
 ### Basic (Command Mode):
 Insert new cell above: A
