@@ -41,5 +41,6 @@
 
 * Undo: ⌘ + Z
 * Redo: ⌘ + ⇧ + Z
+* Redo (Entire cell): Esc + Z
 
 * Delete one word before: ⌥ + ↵
